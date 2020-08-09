@@ -1,0 +1,22 @@
+# Setup
+title:               Canis Pingus
+tagline:             'Latindo'
+description:         'Au'
+url:                 ''
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Canis Pingus
+  url:               https://twitter.com/canispingus
+  email:             canispingus@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.0.0
+google_analytics_id: #UA-XXXX-Y
