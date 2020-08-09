@@ -1,5 +1,5 @@
 # Setup
-title:               Canis Pingus
+title:               Pingus Douradus
 tagline:             'Latindo'
 description:         'Au'
 url:                 ''
@@ -9,9 +9,9 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Canis Pingus
-  url:               https://twitter.com/canispingus
-  email:             canispingus@gmail.com
+  name:              Pingus Douradus
+  url:               https://twitter.com/pingusdouradus
+  email:             pingusdouradus@gmail.com
 
 # Gems
 plugins:
